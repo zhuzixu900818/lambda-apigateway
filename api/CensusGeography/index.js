@@ -2,7 +2,7 @@ const pg = require('pg');
 const gj = require('geojson')
 
 var connectionString = {
-  user: 'cfapi',
+  user: 'user',
   host: 'host',
   database: 'db',
   password: 'pw',
