@@ -2,9 +2,9 @@ const pg = require('pg');
 
 var connectionString = {
   user: 'cfapi',
-  host: 'sp63kb5w0r8p3p.ckswd2zr0ndt.us-west-2.rds.amazonaws.com',
-  database: 'shift_public',
-  password: 'cfapi',
+  host: 'host',
+  database: 'db',
+  password: 'pw',
   port: 5432,
 };
 
