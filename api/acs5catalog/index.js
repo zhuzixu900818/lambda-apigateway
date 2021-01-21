@@ -1,7 +1,7 @@
 const pg = require('pg');
 
 var connectionString = {
-  user: 'cfapi',
+  user: 'user',
   host: 'host',
   database: 'db',
   password: 'pw',
